@@ -1,9 +1,3 @@
-# Michael Hager
-# UIN: 430006723
-# A2: Regression Model Selection in Predicting Wear Rate of Mechanical Component
-
-
-
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import PolynomialFeatures, MinMaxScaler
